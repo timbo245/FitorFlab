@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Fit or Flab/Fit or Flab.iml" filepath="$PROJECT_DIR$/Fit or Flab/Fit or Flab.iml" />
       <module fileurl="file://$PROJECT_DIR$/FlabOrFit.iml" filepath="$PROJECT_DIR$/FlabOrFit.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fit or Flab/app.iml" filepath="$PROJECT_DIR$/Fit or Flab/app.iml" />
     </modules>
   </component>
 </project>
